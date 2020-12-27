@@ -1,0 +1,10 @@
+cp ./.zshrc $HOME/
+cp ./.vimrc $HOME/
+cp ./.vimplugins.vim $HOME/
+cp ./.tmux.conf $HOME/
+cp ./init.vim $HOME/.config/nvim
+cp ./coc-settings.json $HOME/.config/nvim
+cp ./alacritty.yml $HOME/.config/alacritty
+cp ./MangoHud.conf $HOME/.config/MangoHud
+cp ./starship.toml $HOME/.config/
+cp ./topgrade.toml $HOME/.config/
